@@ -1,0 +1,8 @@
+en:
+  enumerize:
+    custom_field:
+      field_type:
+        string: Text field
+        number: Numeric field
+        select: Select
+        multiselect: MultiSelect
